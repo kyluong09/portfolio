@@ -1,11 +1,7 @@
-package com.spring.boot.thymeleaf;
+package com.ky.g.luong;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
-import com.spring.boot.thymeleaf.entity.Customer;
-import com.spring.boot.thymeleaf.service.CrudService;
-import com.spring.boot.thymeleaf.service.ServiceImpl;
 
 @SpringBootApplication
 public class SpringBootThymeleafApplication {
